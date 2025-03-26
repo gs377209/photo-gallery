@@ -1,4 +1,4 @@
-package ionic.photo-gallery;
+package com.gerrodSchirtzinger.photoGallery;
 
 import com.getcapacitor.BridgeActivity;
 
