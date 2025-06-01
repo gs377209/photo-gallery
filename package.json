@@ -43,7 +43,7 @@
   "devDependencies": {
     "@capacitor/cli": "^7.2.0",
     "@chromatic-com/storybook": "^3.2.6",
-    "@storybook/addon-a11y": "^8.6.12",
+    "@storybook/addon-a11y": "^9.0.3",
     "@storybook/addon-essentials": "^8.6.12",
     "@storybook/addon-mdx-gfm": "^8.6.12",
     "@storybook/addon-onboarding": "^8.6.12",
